@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Udaykiran-bandi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/uday-kiran-bandi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -33,12 +33,6 @@
 ### 📂 My Recent Projects:
 - 🔹 [Electric Bill Prediction 📈](https://github.com/Udaykiran-bandi/ELECTRIC-BILL-PREDICTION)
 - 🔹 [Analysis on Bookings.com 📊](https://github.com/Udaykiran-bandi/Analysis-on-Bookings.com)
-
----
-
-### 📬 Let's Connect:
-- 📧 Email: udaykiranbandii@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/uday-kiran-bandi/)
 
 ---
 
