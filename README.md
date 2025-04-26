@@ -33,15 +33,4 @@
   <img src="https://img.shields.io/badge/SEABORN-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
 </p>
 
----
-
-## 📂 Projects I’ve worked on
-
-- 📊 **Sales Dashboard** — Built an interactive dashboard using **Power BI**.
-- 🤖 **Machine Learning Models** — Created regression and classification models using **Python** and **Scikit-Learn**.
-- 📈 **Data Visualization Projects** — Designed storytelling dashboards using **Matplotlib** and **Seaborn**.
-- 📚 **Exploratory Data Analysis (EDA)** — Deep dive into datasets with **Pandas** and **NumPy**.
-
----
-Updated my GitHub Profile README ✨
 
