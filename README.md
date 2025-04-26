@@ -38,7 +38,7 @@
 
 ### 📬 Let's Connect:
 - 📧 Email: udaykiranbandii@gmail.com
-- 🔗 [LinkedIn](https://linkedin.com/in/your-linkedin)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/uday-kiran-bandi/)
 
 ---
 
