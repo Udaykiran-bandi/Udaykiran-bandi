@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [UDAY KIRAN BANDI]</h1>
+<h1 align="center">Hi 👋, I'm UDAY KIRAN BANDI</h1>
 <h3 align="center">A passionate Data Science and GenAI Enthusiast 🚀</h3>
 
 <p align="center">
@@ -44,9 +44,3 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
