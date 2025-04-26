@@ -1,36 +1,45 @@
-<h1 align="center">Hi 👋, I'm UDAY KIRAN BANDI</h1>
+<h1 align="center">Hey 👋, I'm UDAY KIRAN BANDI</h1>
 <h3 align="center">A passionate Data Science and GenAI Enthusiast 🚀</h3>
 
 <p align="center">
-  <a href="https://github.com/Udaykiran-bandi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/uday-kiran-bandi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <a href="https://github.com/Udaykiran-bandi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 Fresher with expertise in **Data Science** and **Data Analysis**.
-- 🔍 Actively seeking opportunities to create impactful solutions using data.
-- 💡 Continuously learning and working on innovative projects to expand my skill set.
-- 🌟 Passionate about **Generative AI** and exploring the latest trends in AI/ML.
+### 🚀 About Me:
+- 🎓 I'm a fresher specializing in **Data Science** and **Data Analysis**.
+- 🔎 Actively looking for opportunities to solve real-world problems using data.
+- 🌱 Currently exploring **Generative AI** and **latest AI/ML trends**.
+- 📚 Always improving my skills by working on innovative projects.
 
 ---
 
-## 🛠️ Skills & Tools
-
+### 🛠️ Skills & Tools:
 <p align="left">
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/MACHINE LEARNING-00C853?style=for-the-badge&logo=google&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/POWER BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/SEABORN-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-00C853?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-223344?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
+---
 
+### 📂 My Recent Projects:
+- 🔹 [Electric Bill Prediction 📈](https://github.com/Udaykiran-bandi/ELECTRIC-BILL-PREDICTION)
+- 🔹 [Analysis on Bookings.com 📊](https://github.com/Udaykiran-bandi/Analysis-on-Bookings.com)
+
+---
+
+### 📬 Let's Connect:
+- 📧 Email: udaykiranbandii@gmail.com
+- 🔗 [LinkedIn](https://linkedin.com/in/your-linkedin)
+
+---
+
+⭐️ From [Udaykiran-bandi](https://github.com/Udaykiran-bandi)
