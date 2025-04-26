@@ -43,4 +43,5 @@
 - 📚 **Exploratory Data Analysis (EDA)** — Deep dive into datasets with **Pandas** and **NumPy**.
 
 ---
+Updated my GitHub Profile README ✨
 
