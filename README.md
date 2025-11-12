@@ -34,6 +34,8 @@
 - 🔹 [Electric Bill Prediction 📈](https://github.com/Udaykiran-bandi/ELECTRIC-BILL-PREDICTION)
 - 🔹 [Analysis on Bookings.com 📊](https://github.com/Udaykiran-bandi/Analysis-on-Bookings.com)
 - 🔹 [Malware Classification 👾](https://github.com/Udaykiran-bandi/Microsoft-Malware-Classification-Challenge)
+- 🔹 [N8N-Automation ](https://github.com/Udaykiran-bandi/N8N-Automation-of-Placement-Eligibilty)
+
 
 ---
 
