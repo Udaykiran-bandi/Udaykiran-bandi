@@ -28,8 +28,7 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-008000?style=for-the-badge&logo=azuremachinelearning&logoColor=white" alt="Machine Learning"/>  
   <img src="https://img.shields.io/badge/Deep%20Learning-4B0082?style=for-the-badge&logoColor=white" alt="Deep Learning"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>  
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>  
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>   
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>  
 </p>
 
